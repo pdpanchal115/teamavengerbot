@@ -1,0 +1,15 @@
+weather-api		http://query.yahooapis.com/v1/public/yql/
+forex-python		http://www.coindesk.com/api/
+wikipedia		http://en.wikipedia.org/w/api.php
+location 		http://maps.googleapis.com/maps/api/geocode/json
+BTC traders
+			Pocketbits = 'https://pocketbits.in/api/ticker'
+			Coindelta = 'https://coindelta.com/api/v1/public/getticker/'
+			Zebpay = 'https://www.zebapi.com/api/v1/market/ticker-new/btc/inr'
+			Coinome = 'https://www.coinome.com/api/v1/ticker.json'
+			Koinex = 'https://koinex.in/api/ticker'
+
+
+-> Install Dependencies from requirment.txt.
+-> If in case any problem in installation of module run commad like:
+pip install wikipedia --ignore-installed wikipedia
