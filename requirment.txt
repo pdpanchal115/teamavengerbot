@@ -1,4 +1,0 @@
-weather-api
-forex-python
-wikipedia
-python-telegram-bot

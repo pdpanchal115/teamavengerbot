@@ -1,0 +1,4 @@
+forex-python==1.0.0
+python-telegram-bot==10.1.0
+weather-api==1.0.3
+wikipedia==1.4.0
